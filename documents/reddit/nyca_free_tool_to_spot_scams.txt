@@ -1,0 +1,179 @@
+POST TITLE: I built a free tool for renters to easily spot apartment red flags
+
+POST BODY: The city provides a ton of data on rental buildings but it’s scattered across dozens of different hard-to-read databases. I’ve been spending my spare time over the past month cleaning this up and putting it into a single interface. The result is [apartmentaudit.nyc](http://apartmentaudit.nyc).
+
+You search an address and it instantly pulls active health and safety violations, evictions, city housing lawsuits, bedbug history, and more. The tool also automatically assigns every eligible rental building a normalized risk grade ranked against other buildings in its cohort (single family home, walk-up, apartment complex, etc.).
+
+I built this on my own and it’s completely free, no account required. Hopefully this can help some of you out. Any feedback on the tool is very much appreciated!
+
+COMMENT: LMAOOOO I know 80 woodruff well
+
+COMMENT: This has been around for ages
+
+COMMENT: No other city in the US matches the sheer volume and historical depth of the ⁠NYC Open Data program. NYC exceptionalism, baby!
+
+COMMENT: I absolutely think that's the case, especially for renters of market-rate units.
+
+I'm sorry you're dealing with issues with your current living situation. You should know that you have the legal right to a pre-move-out inspection, which forces your landlord to put any claimed damages in writing before you leave. So if you do decide to make an anonymous 311 call you'll have some form protection from retaliation in regards to your security deposit.
+
+COMMENT: Amazing. Need this in LA!
+
+COMMENT: Wait this is a great idea!!!! Thank you for your community service!!!
+
+COMMENT: It's totally a possibility that this is just the landlord being less than ethical. In the short time I've been working on this I've encountered numerous cases of what are clearly residential rental buildings not even registered with the HPD.
+
+But u/No-Pain-1383, if you're willing to, please DM the address so I can do some sleuthing!
+
+COMMENT: I appreciate the feedback! If you feel comfortable, please DM me the address so I can look into it!
+
+COMMENT: Tbf idk how much of the data is off. Versus the landlords registering the occupants that way.. 
+
+For example.   
+I know my slumlord re-arranged all the units into random singular rooms. Some definitely are hardcore code violations. But the building is registered as a 3 unit apartment. (I double checked the nyc.gov websites)
+
+It’s possible though for sure
+
+COMMENT: Genuine question — do a lot of people avoid making 311 complaints because they’re scared of retaliation from the landlord? 
+
+For example, I’ve been without air conditioning in my living room (thankfully bedroom is working) for weeks now and haven’t filed a 311 report because I am not planning to renew given all of the issues in my building and I don’t want them to nickle and dime me on the security deposit because I reported the issue
+
+COMMENT: Thanks, I love this too, but I looked up the building I live in and there were at least two inaccuracies. One was the year it was built, and it was a significant difference. Also, the number of units in the building was off. It’s a townhouse with five units and the site said six. Sorry, but you asked for feedback!
+
+COMMENT: Nice and simple to use, especially as a visual tool for those wanting relative simplicity. Thanks!
+
+And hey, we got the D, but at least we don't have bedbugs.
+
+COMMENT: This is really great. Thank you!
+
+COMMENT: Following for updates to see specific violations linked. Good work
+
+COMMENT: So nothing is rentable. Got it
+
+COMMENT: Looking forward. Just checked my apartment. Didn't know how bad it is
+
+COMMENT: Thanks for checking it out! Yes, a breakdown of violations is coming!
+
+COMMENT: Ah, a manual report section is a good idea. I'll look into that.
+
+COMMENT: That's a really great point. My current methodology is basically diluting the severity of building-wide hazards for massive complexes. I'll probably need to separate the building-wide metrics from the unit-specific metrics. So DOB violations or buildings litigations will add their flat point values directly to the final raw score while 311 complaints and HPD violations continue to be normalized.
+
+This is great feedback, thanks. I'll need to think some more on how best to tackle this issue.
+
+COMMENT: A breakdown of violation and complaints is on the roadmap! Thank you for checking it out.
+
+COMMENT: Yep! I only have limited experience with software development; my background is in finance. AI is a fantastic tool - we are now limited only by the ideas we have and the desire to follow through.
+
+COMMENT: All information is pulled from [NYC Open Data](https://opendata.cityofnewyork.us/), an API with millions of datapoints that the city provides for free.
+
+The website consumes data from the Department of City Planning for baseline building specs, Department of Investigation for eviction data, the HPD for code violations and court litigations, and much more. Check out my [Methodology page ](https://apartmentaudit.nyc/methodology)for more detailed information!
+
+COMMENT: Wow, lovely! Is there any way to drill into the actual reports? Not just see the total number
+
+COMMENT: I don’t feel like this is the first time I’ve seen an application provide all this information, but it’s clean and concise. I agree with others about wanting to see the violations. I also think it would be nice for there to be a tenant reports section where a tenant can make a report that isn’t there. Ie, the owners of my building have illegally deregulated all of the unit. We are going to take them to court but we aren’t there yet so it wouldn’t report yet. They are selling so it would be nice if the real estate agents came across the information that they are being lied to.
+
+COMMENT: This is great, thank you for sharing! 
+It would be great to be able to see the details of violations/complaints, I’ll keep an eye out for updates!
+
+COMMENT: This is awesome. I’m curious, when you look at the rankings, are very large building favored by your methodology? I totally see why you divide by number of units, but I wonder if there should be some slightly more curved weighting applied as buildings get larger (at least for some hazards) so that buildings with huge unit counts don’t get insufficiently penalized for building-wide hazards
+
+COMMENT: Awesome, please reply here when you get that up! Can’t wait
+
+COMMENT: Yes, I'd love to see the specific complaints too. But great tool! I've bookmarked it for future use.
+
+COMMENT: This is very cool. From what sources are you pulling the info?
+
+COMMENT: Sent you one. lmk what you find. wondering if I'm in an illegal rental 😅
+
+COMMENT: No seriously what do I do lol
+
+COMMENT: That’s a great point. I’ll look into reworking the score normalization!
+
+COMMENT: Thanks for checking it out!
+
+COMMENT: Thanks!
+
+I put the links to each agency I pull data from in the [Methodology section](https://apartmentaudit.nyc/methodology) but you’re right - I should make that more clear.
+
+COMMENT: Haha that’s a great idea! I’ll put that on the to-do list.
+
+COMMENT: Can you format it into a 1-page, printer-friendly format with a large F (and make it look official)? I want to post this in the lobby!
+
+COMMENT: I wish they would laugh in my rent-stabilized face.
+
+COMMENT: Great tool - Maybe there should be more versions of "F" because I live in an F building according to your site, but I know there are far worse!
+
+Now I'm depressed.
+
+COMMENT: Okay gotcha! Yeah definitely less info heavy. Thanks for the explanation—great work!
+
+COMMENT: Friggin awesome dude 🐱🤙
+
+You should include (assuming I'm not missing it) links to the sources it's pulling from too for further reading on the building.
+
+COMMENT: Thank you! Great job!
+
+COMMENT: So nice that some people still want to help others with monetizing it for themselves
+
+COMMENT: This is really good. It accurately reflects all 5 buildings I've lived in.
+
+COMMENT: Thanks for confirming! If you encounter any other bugs please let me know.
+
+COMMENT: It appears you need to pay OpenIgloo $10 for 1 day of access to a building's history. Certain datapoints like their capturing of bedbug history seem questionable too...
+
+COMMENT: seems to be working now!
+
+COMMENT: Interesting. It works on my end using an iPhone. Others have used it on various Android devices which have also worked.
+
+What mobile device are you using?
+
+COMMENT: Doesn’t open igloo already do this?
+
+COMMENT: the search box doesn’t work, at least not on mobile
+
+COMMENT: Please DM me those addresses and I'll certainly check them out!
+
+COMMENT: I was poking around with some listings and probably 4 or 5 gave me “not a rental address” so you may have a bug? I’m not sure. Very cool tool though!
+
+COMMENT: Thank you! Yes, That exact feature is on the roadmap right now. I'm working on the best way to visualize the data without cluttering the main dashboard.
+
+Thanks for checking it out!
+
+COMMENT: JustFix is an incredible resource and is definitely an inspiration! 
+
+The main difference is the focus on quick readability. While JustFix is great for taking action, this site aggregates a broader set of historical data and distills it all into a single risk score. 
+
+The goal is really to give you a 10-second vibe check on a building before you sign a lease.
+
+COMMENT: This is great! Really appreciate you putting this together.
+
+Quick Question: is it possible to see what the historical violations have been for a building?
+
+My building thankfully has nothing open right now and doesn't have a ton of historical violations, but it would be cool to be able to see those if possible.
+
+COMMENT: This is really well done! Thank you for sharing.
+
+COMMENT: Time for a rent negotiation!
+
+COMMENT: That's odd. Please DM me the address if you feel comfortable doing so.
+
+For some context, the site specifically filters for properties registered as residential rental buildings with the city. It pulls directly from the city's MDR database, which landlords are legally required to keep updated if they are renting out units.
+
+So either a bug on my end or you're officially living off the grid...
+
+COMMENT: Description of what kind of buildings we're should expect to find would be helpful. my rental building does not show up.
+
+COMMENT: Love this! 
+
+Also nice to know my building is an F with over 40 hazardous violations sooo.. RIP me lol
+
+COMMENT: Will do, thanks for letting me know.
+
+COMMENT: Thanks! 
+
+Detailed complaint/violation history is next on the roadmap. The raw public data definitely has that level of granularity (dates, specific pest types, resolution status, etc.), so it’s just a matter of building out the UI to display it cleanly.
+
+I really appreciate the feedback!
+
+COMMENT: If you post again, please use the self promotion thread.
+
+COMMENT: This is very cool. Does the data allow you to drill down on specific complaints to see what it was about? The summaries are helpful but would be good to see when the specific complaint for pests was reported and what it was about or how it was handled.

@@ -1,0 +1,83 @@
+POST TITLE: things i wish i knew about apartment hunting before moving to nyc
+
+POST BODY: moved here a few years ago and wasted the first few weeks doing it completely wrong, so figured i'd write down what i actually learned in case it helps someone about to make the jump.
+
+the biggest thing: the great apartments rarely make it to streeteasy. the actual deals are lease takeovers and lease breaks - someone leaving early who needs to hand off their place fast. 
+
+by the time something hits a listing site its usually overpriced or at least market-priced (which days days feels overpriced anyways) - took me way too long to figure that out.
+
+
+
+stuff that would've saved me time:
+
+\- get all your paperwork ready before you start touring. pay stubs, bank statements, ID, guarantor info if you need one. if you find a half decent deal it will be gone in hours. you have to be able to say yes on the spot and have everything you need to apply.
+
+\- look into rent stabilized buildings. landlord can only raise by a small % set each year (2-3% lately) so you're protected long term. rough rule: built before 1974 with 6+ units is usually stabilized
+
+\- double check if a place is rent controlled/stabilized before signing. i've had multiple friends whose landlords never told them and just raised the rent however they wanted year over year, which is illegal. you can look the building up yourself at [https://amirentstabilized.com/](https://amirentstabilized.com/)
+
+\- lease takeovers are underrated. someone hands off their lease, often furnished, and you skip the guarantor/credit hurdle that screws over anyone without 2 years of us income history. i made a map of all takeovers (free, no login, updated daily) here: [https://leaseswap.nyc/takeovers](https://leaseswap.nyc/takeovers)
+
+\- summer is peak demand and peak prices. you can get a noticeably better deal in winter, so if youre moving in the summer it can be worth doing a short sublet and signing a real lease once it cools down
+
+\- a few channels to skip: facebook group posts for apartments are like 90% scams in my experience. renthop has almost no original inventory and more scams than you'd expect, basically skippable. facebook marketplace is actually decent but more for finding roommates than apartments
+
+\- budget for the upfront cost being brutal. first month + deposit (and sometimes more) can mean 3x rent before you even move in. and this is actually way better than it was a year ago where you'd also have to account for broker fee 
+
+lmk if i missed anything!
+
+COMMENT: Institutional landlords are painful.
+
+COMMENT: I rented in this area this past spring through Junehomes.com, it looks kind of scammy online and very automated so I insisted on seeing the place in person before I sent any money and I did and it worked out great, it’s a little more expensive than if you got a rental through a friend etc but they have lots of appartment shares that are super reasonable and mine was an amazing studio right on CPW building was super it was just heaven for the 4 months I had it. And furnished, turnkey
+
+COMMENT: great additions - thanks!
+
+COMMENT: StreetEasy is the best app for NYC. Realtors will only work with you 2/3 weeks before move-in date. Yes FB marketplace and Craigslist are very scammy, but I found my best deal on FB that was rent stabilized in a fantastic location. Watch out for brokers fees (NYC has laws against them regardless of what they tell you). Landlord may start bidding wars on purpose and rich people will swoop in paying over asking or 6+ months lump sum… Tenants have protections, a lot of protections, and there are lots of tenant unions IN NYC to help you. ALWAYS check 311 reports esp for bed bugs and building code violations. Ask about the super, where they live, their services etc. Heat and water is always included (it’s the law I believe). Yes you will feel exhausted and crazy, I do every time I apartment hunt in the city… rent uhauls or whatever services you need at least 1.5 months in advance. Good luck!
+
+COMMENT: the first link shows error everytime i enter my apt address
+
+COMMENT: for the most, yes. the worst time is may - august
+
+COMMENT: I’m planning on moving in October. Will that be after the peak summer season price wise?
+
+COMMENT: that's true unfortunately. though the platforms change a bit from city to city
+
+COMMENT: i see a lot on facebook in pages dedicated to young people looking for roommates- you’ll find some lease take overs for studios and one bed rooms even though the page is technically dedicated to roommate searching
+
+COMMENT: get a sublet first, then take your time to shop while you’re out there
+
+COMMENT: This drives me insane…
+
+COMMENT: Great list, would add one more thing to it: actually read the lease before you sign. NYC leases are notoriously long and full of clauses that can cost you later like automatic renewal traps, subletting restrictions that contradict what the landlord tells you verbally, and fees buried in the fine print that don’t show up until move-out. I built a tool that analyzes your lease and flags all of it in plain English including your specific NYC tenant rights. $9.99 at mytenantiq.com and way worth it before committing to anything in this market.
+
+COMMENT: I think you’re mixing up a lease takeover and a sublease. Most landlords or management companies will require the person taking over a lease to meet the income requirements. The person taking over the lease will be on the hook to pay rent every month so it’s important for them to meet the income requirements. You can sublease to avoid income requirements since the landlord will expect the primary lease owner to pay the monthly rent but it’s more risky for the lesser owner as a result.
+
+COMMENT: Any advice for someone planning a move to upper Manhattan (Harlem/Hamilton Heights etc) in September and wondering when to visit to find a place? I’m trying to pick about a 5 day span before the move where I can visit places and hopefully secure a studio.
+
+COMMENT: This is good general advice for any person moving to a competitive city market. It’s the same in Boston, unfortunately.
+
+COMMENT: "- double check if a place is rent controlled/stabilized before signing. "
+
+Such good advice, especially for people subletting rooms from people who think they can charge anything/the full amount of the rent they want for a room in a rs apartment.
+
+COMMENT: a little bit all over tbh:
+
+takeovers are mostly on leasebreak and reddit in my experience - the best ones though are just passed down to friends (makes sense - if i had a great deal and needed to move out i'd just try to give it to my friend)
+
+  
+sublets are genuinely all over: facebook, reddit, lots of people just put them on their instagram stories. there's a couple of new apps like ohana or snag that have some but they're still relatively recent so not a ton of inventory
+
+that's why i made the map i linked in the post to see all takeovers / sublets / rent stabilized units in one place - was looking for a place to aggregate them
+
+COMMENT: Where are people listing their lease takeovers/sublets/etc?
+
+COMMENT: that's wild - first time i hear of people getting scammed on streeteasy but i guess it happens - ultimately, you gotta be careful no matter where you find the apartment i guess is the lesson. thanks for sharing!
+
+COMMENT: A co worker was scammed from a listing on streeteasy, they told me about it and the area etc, and I was impressed at the cost and area, it was a good deal. They had sent half the deposit and gotten a lease form with numbers filled in etc. looked legit. I got involved because they are kind of young and first apartment etc. and were going to see it that evening, I was surprised they had sent money sight unseen,  so I looked it up.  the listing on street easy had different numbers. Uh oh, I said. Are you sure this is legit? 
+It better be, cuz I just sent the balance of the deposit this morning. 
+Sure enough, that apartment was not even available for rent. The person ran back to the bank and managed to stop the second payment, but the first was lost!!!!! 
+There are nothing but scammers in the real estate market here in nyc!!!!
+
+COMMENT: Excellent advice for newcomers
+
+COMMENT: Nice, thank you so much for sharing!

@@ -1,0 +1,46 @@
+POST TITLE: I created a list of all the different websites you can find summer housing: summerhousing.nyc
+
+POST BODY: Every year, I see a huge influx of posts looking for furnished summer housing in NYC. Posts asking about it usually receive no replies, and when advice is offered, it's usually vague.
+
+I thought it would be useful for these people if there was a centralized place that shows **all** the different sites that you could find summer housing; either a sublet, university housing, corporate rentals, coliving or various marketplaces that provide all of the above.
+
+I created the website [summerhousing.nyc](http://summerhousing.nyc) which lists all the different websites where you can find summer housing that I'm aware of, along with ratings on price, and the likelihood that the site, or someone using the site is a scammer. Currently I have 72 different sites listed. This is based on my personal opinion, and knowledge of the summer subletting market, so I can't promise that the information is perfectly accurate. Please let me know if you disagree with anything listed on here.
+
+I won't be able to update the website often, but I created a spreadsheet, which is a lot easier to update with new sites, edit links, change ratings, etc. [https://docs.google.com/spreadsheets/d/1DdQF4DRvvkPECB1HVA1Hkzs8wF9FfuE7tizAObr2Oug/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1DdQF4DRvvkPECB1HVA1Hkzs8wF9FfuE7tizAObr2Oug/edit?usp=sharing)  
+This stuff doesn't change much from year-to-year, so ideally [summerhousing.nyc](http://summerhousing.nyc) can be a static website that I only update occasionally, but in the short term as I take additional recommendations and clean up the data, the spreadsheet will have the most accurate information.
+
+As for why I know about this niche market, I founded one of the companies on the list that provides student housing and a marketplace for sublets, and have interacted with many of my competitors listed here. A single company obviously can't provide for the quantity of people, and breadth of different requirements, so I found myself occasionally sending people competitors that were better fits for their situation. This was originally just for internal use, but after sharing it around this week past, and receiving positive feedback, I thought I'd make it more widely available.
+
+Please let me know if there's anything missing from here, or any inaccurate information to be changed! You'll notice a lot of missing information I marked with a dash. I only gave a rating to websites I have some personal experience with, or have spoken to someone who has, or it was abundantly obvious it wasn't a scam, like official university housing. If you can share information to fill an empty cell on the spreadsheet, let me know about your experience, and I'll update it.
+
+Do you think this is useful? Is there anything I'm missing? What do you think I can change to make this more useful?
+
+COMMENT: I signed up but I don’t really see any sublets on there. Is there something I’m missing?
+
+COMMENT: I would also recommend the site [OurBigApple.com](http://OurBigApple.com) .
+
+COMMENT: I like it! Thanks for the suggestions. 
+
+I’ll make some of those edits this weekend, and I’ll definitely add the google form. I was thinking people might just leave comments on the Google sheet, but I think a form soliciting feedback will be clearer.
+
+COMMENT: This is **super useful** — thank you for putting it together! The NYC summer housing scramble is real, and having all these options in one place is a huge timesaver (and sanity saver) for students, interns, and digital nomads alike. Love that you also added scam risk and pricing transparency — that info is *so* hard to come by unless you've been through it.
+
+A couple of quick thoughts that might make it even more helpful:
+
+* **Add a few filters or tags** for things like:
+   * "Good for interns" / "Good for grad students"
+   * "Offers individual leases"
+   * "Private rooms vs full units"
+   * "Flexible dates"
+* If you ever have time (totally get that updates are hard), maybe a quick “last verified” column or date to help people gauge how current the info is?
+* Long shot: would be cool to see crowdsourced feedback added someday — even just a Google Form for people to share their own experience with a platform (could keep it private for you to vet, or link out reviews with permission).
+
+All that said, this already fills a huge gap. Bookmarked — and definitely sharing this with some friends looking for summer housing right now 🙌 Appreciate your transparency and the effort you’ve clearly put into this.
+
+COMMENT: I run housingpanda.com which is on the list. 
+
+The list itself and sunmerhousing.nyc doesn’t make any money, and I intend to keep it as purely informational.
+
+COMMENT: Hi, I think we are generally pro what you're trying to do, but just curious, are you making money off of this? Just think that should be disclosed
+
+COMMENT: I think this is very useful! Good job!

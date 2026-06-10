@@ -1,0 +1,695 @@
+POST TITLE: StreetEasy has become almost completely useless and I need to vent
+
+POST BODY: I haven't had to apartment hunt seriously in years and coming back to StreetEasy has been a genuinely shocking experience. The whole platform feels like it's been optimized for brokers to deceive renters rather than actually help people find housing. A non-exhaustive list of things that are making me insane:
+
+The listings themselves are fiction: AI-generated photos are everywhere and not even subtle about it. Listings with 25 photos of the High Line and a Michelin starred restaurant nearby and then 3 of the actual unit, all shot with the ultra wide angle iPhone lens from the corner so you have absolutely no idea what you're actually looking at. 
+
+The doorman scam: brokers will check "doorman building" so it shows up in filtered searches, and you get there and it's actually a "virtual doorman" which is literally a screen on the wall. That's an intercom. StreetEasy does nothing to enforce this distinction and refuses to remove or fix listings that I report.
+
+The listing is already gone: half the apartments I've inquired on were rented days or weeks ago. Brokers just leave them up as lead generation. You submit an inquiry, they call you back, "oh that one is gone but I have something similar..." It's a bait and switch and the platform lets it happen.
+
+Days on market is meaningless: brokers re-list the same piece of shit apartment constantly to reset the counter. Something that's been sitting for 4 months shows up as "3 days on market." There's no way to know if an apartment has been rejected by 40 other people or just listed.
+
+The inquiry system is a spam funnel: the second you click contact on any listing you get added to a broker's pipeline forever. Texts, calls, emails. 
+
+The app is also just slow and buggy in a way that feels ridiculous for a platform that owns the NYC rental market. Filters don't actually work (for some reason my wife will get listings that I've never seen before and vice versa, even though we have the same filters).
+
+I'm sure this is all obvious to people who've been doing this more recently than me but I was genuinely not prepared for how bad it's gotten.
+
+COMMENT: I built this ([thefind.app](https://www.thefind.app)) for myself out of a similar experience. Hoping to bypass  StreetEasy eventually. Would you use it?
+
+COMMENT: i habe a place but for female only. **Hi Everyone!**
+
+I’m subletting a furnished room in a 3-bedroom, 1-bathroom apartment starting March 1, 2026 or April 1, 2026. The sublease can be month-to-month or for a full year.
+
+\*\*\*Female roommates wanted!
+
+ Location: W 115th St & Manhattan Ave
+
+\* 9-minute walk to Columbia University (Morningside campus)
+
+\* 4-minute walk to the A, B, and C subway lines
+
+ About the Room:
+
+\* Queen-sized bed with mattress
+
+\* Study desk + ergonomic office chair
+
+\* Chest of drawers & wardrobe
+
+ About the Apartment:
+
+\*Elevator
+
+\* In-unit washer & dryer
+
+\* Modern kitchen with marble countertops & stainless steel appliances
+
+\* Dishwasher
+
+\* Shared with two friendly Columbia graduates
+
+ Rent: $1,500 per month
+
+Feel free to DM me if you're interested or have any question
+
+COMMENT: You might wanna check before you move with https://apps.apple.com/us/app/nyc-intel/id6759576009
+
+COMMENT: It does happen! People get banned. But you have to remember who street easy the brokers do so they’re never gonna entirely get rid of them.
+
+COMMENT: That does happen! lol
+
+COMMENT: I need a rental broker for around the summer. Anyone you can connect me to?
+
+COMMENT: Care to give a referral?
+
+COMMENT: One thing that would help is shared reporting on listings themselves, not just buildings. I’m building [AptScout](http://www.aptscout.xyz) for exactly that: people can flag fake photos, bait-and-switches, hidden fees, and wrong-unit showings so we can start to track wrong doers.
+
+COMMENT: I’m sure it exists but probably very limiting. You’d probably be weeding through a lot of legally questionable situations
+
+COMMENT: I want to find a private owner apartment for less than 2,500 dollars you think there’s any hope for that now a days? I’m going to check out that site
+
+COMMENT: Hey! If you're open to the Upper East Side, I'm renting out my 1BR (no broker fee / rent by owner) for a May 22 move-in at $3,990. It's right by the Q train. Here's quick video walkthrough: https://youtube.com/shorts/f-8aYnjFNPc. Shoot me a DM if it looks like a good fit and I can send you the full details!
+
+COMMENT: I report scams on there all the time. Last one was, whoops, Idk why they wrote the wrong address, here’s the real one. I view the apartment, it looks nothing like the listing photos, you know the drill. So effing infuriating.
+
+COMMENT: I just used it to find an apartment in Astoria and had no issues.  Rented a new place in less than 2 weeks.  Broker was great.  Just one persons’s experience.
+
+I have also rented many apartments in NYC over last 30 years.  I know what the code words mean (ie: cozy = small).  It’s just a platform.  I haven’t seen anything better.  You still have to check if the brokers are legit.  I look to see if they belong to a real firm.  I also see if they have rented past apartments in that building. 
+
+You can also check on the building itself when you find a place you like.  City lists all the buildings violations and tenant complaints—- from hot water to bed bugs.  You can see if the owner has paid their taxes.  It’s all online for free on the nyc government websites.
+
+COMMENT: Zillow rentals. Likely many of the same problems but it’s good to look at both because every now and then, an apartment will only be listed on one or the other.
+
+COMMENT: the real apt is like a 10' x10' but in the AI photos (like all of them nowadays) the bed is shrunken down to make it seem much bigger than it is... its terribly deceptive
+
+COMMENT: People who say the FARE act raised rents believe that, because the FARE act got rid of brokers fees (now the landlord generally has to pay a broker vs the tenant, unless the tenant hires a broker) the landlords began baking the broker fee into the rent price, thereby increasing rent. The FARE act was supposed to make renting more affordable, but some people believe it just changed the way the dollars come out of your pocket (ie tenants no longer pay brokers directly). 
+
+The counterargument is that demand for NYC apartments is at an all time high, and inflation is raising the cost of rents regardless.
+
+COMMENT: It can be rough.
+
+Imagine what you would have thought back when all ads were in the Village Voice, with no pictures?
+
+They could only take a certain amount of characters, so we'd have to abbreviate: First/A, Tru 2BR, sep EIK, mbl bth, $2300.
+
+COMMENT: Listing Project is AMAZING
+
+COMMENT: Just went through this. Also want to add one-- I saw a lot of seemingly PE venture listings of fully furnished apartments for short term rentals.
+
+COMMENT: Only thing I disagree with is that because we knew banning the fee would shoot rent up overnight, they should have just capped and regulated the fee.. This would have not shot rents up so drastically, on June 13th everything went up 7-8%
+
+COMMENT: What kills me is “sorry no pets” when I filter for pets allowed
+
+COMMENT: I saw one that listed a private outdoor space but it was really just the roof of an adjacent building you could crawl onto from the window.
+
+COMMENT: Sure I can go ahead and explain.
+
+1. In most U.S. cities you do deal with a broker, unless you are renting from a house. You usually go to a property manager or an apartment leasing office, and they have an agent that handles your paperwork and facilitates your going to tour their available units. These people have salaries, and their costs are baked into the rent. Functionally, their job is the same as a broker.
+2. In mega cities like New York, Paris, and London, the reason 3rd party brokers are the norm is because property managers manage fewer units. On the other hand, multi-family apartments in most U.S. cities have hundreds of units per property manager and have a lot higher turnover. Costs are generally lower, so property managers/landlords manage/own more units. In smaller towns, you may have a handful of property managers that manage the entire inventory of rentals in a city, which is the case in the college town I grew up in. In comparison, in downtown Manhattan, most of the prewar buildings have 28 units total. The property company that manages my building has some 6 buildings in NYC, and they represent 150 units. In a given year, they may rent 10 units. It’s not worthwhile for them to maintain a full-time worker whose job is to rent out 10 units a year. So in NYC and other mega cities, most leasing agents (brokers) are effectively 3rd party, part-time freelancers that work on commission. No one likes workers who work on commission. Do people like car salesmen?
+3. One thing to also notice is when you are dealing with modern construction (aka luxury apartments), those buildings often do have hundreds of units, and nearly all of those apartments do have in-house leasing agents, and it works the same as it would in Atlanta or Charlotte.
+
+I get not liking brokers, because they are basically the same category as car salesmen, but pretending that they do not have an equivalent job that exists in other cities is outright ludicrous and really just says that you are someone who cares more about your own emotions than actual facts, and I will lose brain cells to continue this further.
+
+COMMENT: Yeahhhh, there's a reason I don't work for ExxonMobil, or Philip Morris, or Fox News, or arms dealing. 
+
+Even if I were offered a job there for a million dollars a year, I would still say no.
+
+If you don't believe me when I say that, that's not my problem, and speaks more about you than me.
+
+COMMENT: Explain to me how other major cities in the US survive without broker fees being legal? Long term, NYC will be okay without broker fees, as we see in 90% of other cities.
+
+COMMENT: It differs for each person, evidently. 
+
+Your suggestion, though, reveals more about yourself than I think you intended. You suggested I work a job that goes against my values, which implies you’re okay with working a job against your values so long as it pays an upper middle class salary. Lol
+
+COMMENT: I am not a broker and nor am I the person you've been down voting. I am an economist. Street Easy publishes their total listings numbers each month for past 15 years. You can get them in the data dashboard under additional tools, scroll to the bottom and they even will produce excel files for you to download. you can see by neighborhood.  You do in fact see a 5 to 10 percent drop in the average number of listings  depending on neighborhood when fare act comes into effect. So there is almost definitely a gray market.
+
+My suspicion is its mostly way under market rent stabilized apartments, but 10 percent of the inventory disappearing from a site that has a near monopoly on apartment listings in the city definitely has an effect on price of public listings. This is direct consequences of fare act. Of course you have other factors, but 12 percent YOY exceeds records of previous couple of years by a good bit.
+
+Furthermore are population growth for the last year (2025) is 1008 people. It  is basically zero growth:
+
+[https://www.empirecenter.org/publications/as-immigration-slowed-new-yorks-population-hit-a-wall-in-2025/](https://www.empirecenter.org/publications/as-immigration-slowed-new-yorks-population-hit-a-wall-in-2025/)
+
+NYC problem is supply.
+
+COMMENT: What is a list of acceptable and moral versus unacceptable and moral jobs?
+
+COMMENT: You can pm me if you want I can tell you around where my building is! East side seems better but I’ve only ever lived on W side. Midtown being the main thing in walking distance is eh
+
+COMMENT: lol I lived in this apartment that went viral
+
+COMMENT: They cornered the market already. They do a little bit of vetting. They do have the most reliable information of any platform right now. They have no incentive to do any better than they are doing right now. It's more than anyone else does, so it keeps the consumers coming back, but not enough to hurt their own pockets that much.
+
+COMMENT: Sorta. What you say about the revenue model is true. But that is predicated on a steady supply of high quality good intentioned renters with certificates of deposits burning holes in their pockets. Those rubes — ahem — renters — are happy to go elsewhere if the platform isn’t meeting their expectations. So while they are not a direct source of revenue, they are part of the revenue chain, and a category of customer (or stakeholder depending on your corporate vernacular) that must be kept happy. 
+
+Whatever label you use, no renters, no revenue.
+
+COMMENT: YMMV. I dealt with an obvious scam and the name on the listing, who had listed many apts on SE previously, was not registered as a broker nor was the supposed firm they were associated with. They basically told me womp womp your word against theirs
+
+COMMENT: Where on Reddit would be a good place to post an apartment that you currently live in and want to sublet it out for 1 year?
+
+COMMENT: Thank you! Did you see any buildings that you liked/came close to liking? I’m also looking in the UWS/UES areas
+
+COMMENT: It seems like this person’s only qualifications to take a job are that it pays well and is easy, morality out the window. They must be a broker— that’s the perfect job for them. Some of us value other things!
+
+COMMENT: Ok sounds good then. Best of luck
+
+COMMENT: What app did you see your current apt?
+
+COMMENT: We don't care how easy or hard it is. We care that it shouldn't exist.
+
+COMMENT: I agree. The site has definitely turned into a broker’s playground with renters as the product. But if the renters can’t trust SE listings, then brokers lose product inventory. As renters, we’ll go to other platforms if SE loses credibility.
+
+COMMENT: Most of the jobs that you're referring to exist elsewhere. Forcing tenants to pay broker fees is a job that doesn't exist in almost any other city in the country.
+
+COMMENT: I was first looking in Hudson Yards (ended up further uptown, too expensive for the space I wanted) so I started by looking up on Maps other buildings and then looking them up online and set up showings on the building sites. It can take a little time since there's so many, but a lot actually offer "virtual" showings too so you can see the apartment in person alone and don't have to talk to anyone lol!
+
+COMMENT: \>I mean that’s not really what’s happening. Landlords are the ones who control their properties. 
+
+Your own words in this thread wre "It incentivizes brokers to keep units off the market or not show potential clients other brokers’ listings."
+
+\>Landlords are the ones who control their properties.
+
+Then they can pay the fee.
+
+\>The disruption in the system comes with the rules around what kinds of listings a broker can advertise and how they can collect their fees.
+
+Then they can collect the fees from the landlord. 
+
+\>But landlords are also reacting to market forces. 
+
+They mostly weren't paying the fee before because brokers were offering free services to the landlord that they would then charge to the tenant. If landlords still don't want to pay broker fees, then that means that they don't value the services. What des that tell you about how market forces value the service?
+
+\>Why would they rent a unit and take a potentially big loss when they could just not rent it and take a smaller loss?
+
+I don't accept the premise that these are the only two options. Landlords, and the people who work for them, could just show the units themselves, like it happens literally almost everywhere else in the country. They just got spoiled by people who worked for them for free but collected fees from renters.
+
+COMMENT: Lmao sounds like job postings on linkedin
+
+COMMENT: It’s not exclusive to street easy (or even NYC for that matter) realtors are going nuts with the AI makeovers because they know a sucker will pay for it. Someone had a blast renting out my old apartment that I was constructively evicted from because the HVAC failed and kitchen flooded from a roof leak. All it took was a fresh coat of paint and a lb AI staging for someone to take it off their hands for $3k a month. Hope they enjoy not being able to use AC units or heaters because they’ll trip the breaker!
+
+COMMENT: I mean that’s not really what’s happening. Landlords are the ones who control their properties. The disruption in the system comes with the rules around what kinds of listings a broker can advertise and how they can collect their fees. 
+
+But landlords are also reacting to market forces. Why would they rent a unit and take a potentially big loss when they could just not rent it and take a smaller loss? 
+
+Would you rent a property at a loss just to be nice? You probably wouldn’t
+
+COMMENT: >reacting to market forces
+
+By moving lists of apartments to private "off market listings," which they make available to renters if the renters agree to pay a broker fee.
+
+Brokers are literally admitting that this is happening. They even call it a black market.
+
+That sounds a lot like gatekeeping and extortion. They just don't want to admit that it's what's happening, so they use soft language like "market forces" and "off market listing" to dress it up and tell themselves that what they're doing isn't unethical. One can slap lipstick on a pig, but it's still a pig.
+
+COMMENT: Sometimes but if they do, you can contact support about the broker/lister themselves and not just the listing.
+
+COMMENT: Bro please get a grip. No one is trying to extort you. People are reacting to market forces put in place by legislation.
+
+COMMENT: Why would I do a job I just expressed disdain for?
+
+COMMENT: I saw my current unit listed even though my lease is not up any time soon, & same thing it had specs that weren’t even remotely accurate listed
+
+COMMENT: One post about one service is not evidence nor statistically significant data. That's not how that works.
+
+COMMENT: If it is so easy why don't you do it and become a millionaire?
+
+COMMENT: Does the broker repost it a day later though
+
+COMMENT: The job has not evolved as our technology has evolved, it is utterly useless. Before the internet and streeteasy, you had to reach out to brokers, tell them your ideal price range, location, amenities, bedrooms, etc and they would hunt down apartments that fit your qualifications. Nowadays renters can do all of that on their own. They find the apartments and brokers show up at the last second to do nothing other than collect money as if they actually did any of the work. It’s bizarre. The need for this job does not exist.
+
+COMMENT: The gray market everybody is talking about where you reach out about a listing and it's not available when you show up but they have something else off market they can show you but you have to sign this piece of paper that says they represent you and you have to pay them the fee.. which happened to me a month ago, three times... "
+
+Correlation doesn’t equal causation.. OK cool why did the rent go up so much starting on June 13th? Why is everyone complaining about how much worse Streeteasy has gotten? 
+
+"The entire job is a BS scam." I am not going to punch down on the profession because I find that you could say this about 75% of jobs these days, you must be a surgeon.
+
+COMMENT: You just don't like the words gatekeeping and extortion, but that's 100% what was happening, no matter how much you want to pretend otherwise.
+
+No, I'm not having fun. I'm angry and frustrated that my wife and I can't find an apartment in which we can afford to start a family, despite having nearly perfect credit and nearly $200k in income, because brokers are throwing a hissy fit about not being able to more easily extort me and my wife.
+
+COMMENT: No offense but nobody cares if it’s a “disaster” for brokers— the entire job is a BS scam.
+
+COMMENT: Correlation doesn’t equal causation. Demand is also at an all time high. 
+
+Are you a broker? What is the “gray market” you speak of?
+
+COMMENT: PS- Not an ANTI Fare act person here, they needed to start regulating rentals but not like this
+
+COMMENT: I don't understand your snark? Rent went up almost 12% in Manhattan YOY when the FARE act supporters said "This will NOT increase the rent".. Now rent is up, a gray market has been created and it has been a disaster for brokers and renters?
+
+COMMENT: Hi! How did you find managed buildings in the area? I would also rather live in a managed building.
+
+COMMENT: I mean no. That’s not what I’m saying. But you’re having fun so go nuts bro
+
+COMMENT: This post is my evidence. I’m replying to the friction in the system OP is identifying and offering an explanation.
+
+COMMENT: You aren't the customer. Streeteasy makes money from agents, not from renters, buyers, or sellers. You are not their customers. The agents are.
+
+COMMENT: But they make their money from brokers. You, the renter, are the product streeteasy is selling. The brokers are streeteasy's customers. They started by convincing brokers to put all the info for free on streeteasy to reach clients. Then, once they had the majority of Nyers searching on streeteasy, the renters became the product they sell to agents. They don't care to please you, the renter. You are not their market. Agents are. And they charge agents $7 per day, per listing just to post a rental listing. You are not their customer. You are their product.
+
+COMMENT: One more thing. While CL did destroy classified advertising, Craig does do a decent amount to support journalism as a sort of repayment.
+
+COMMENT: I agree! I ended up finding a great place with no fee with managed buildings directly. Just look up all the apartment buildings in the neighborhood you want to live in. It took a few days but I only had to see 4 places in person to apply to my current place. I wouldn’t want to deal with a non managed building either, I imagine individual landlords in nyc would be bad LLs
+
+COMMENT: Now, all you need to do is filter through what you’ve found. 
+
+If a listing features many photos of the neighborhood rather than the actual apartment, it often implies that while the unit itself is lackluster, the location is a major selling point. Walk-up buildings, in particular, frequently fall into this category. If you reach out about a listing only to be told it is no longer available, you can simply move on. Whether they use such listings as "bait" to lure in inquiries is their problem, not yours. For listings priced at market rates, StreetEasy remains a highly accurate resource. 
+
+Since the platform charges a fee per listing per day, the tendency to indiscriminately post fake listings has significantly decreased. 
+
+Unfortunately, however, if you are looking for listings priced below the average market rate, StreetEasy will be of no help to you.
+
+COMMENT: What do you think is a good alternative to SE? One without such an incentive to fraud?
+
+COMMENT: brokers pay daily fee listings which is SE's revenue so banning brokers won't happen
+
+COMMENT: Sadly, this is nothing new. 
+
+Also, it's kinda what you get for a free service. 
+
+You're better off looking for private owners to rent from, or direct to management companies' websites that have listings.
+
+COMMENT: >Well, no, that’s not what I was saying at all. I’m saying that platforms like StreetEasy worked fairly well to connect renters and apartments, albeit with the practice of forcing tenants to pay broker fees in many cases- even if they didnt hire that agent. 
+
+>My point is the system functioned better before.
+
+So..... letting brokers gatekeep apartments so that they can extort us was actually good for us.
+
+COMMENT: Exactly. There is one guy who repeatedly posts the same scam listing over and over again. Report it, it gets taken down, next day he's back with another listing. So the reporting doesn't actually do any good.
+
+Also listening to feedback from users. Some of OP's suggestions (ie: the virtual doorman thing, or landlords re-posting the same unit over and over again to game the algorithm) could be easily remedied, but they haven't been.
+
+COMMENT: I’ve also seen my address listed! Recently I also saw an apartment listed as being next door to my building, so I messaged them. They said it was actually on another street that was much more desirable. I told them they should update the listing and they’d probably get more people interested and they blocked me. Apartment is still listed under the wrong address.
+
+COMMENT: That's a good easy fix. I agree with that
+
+COMMENT: > the system functioned better before.
+
+Please cite your source besides "just trust me bro"
+
+COMMENT: My point is, the system functioned better before. The cost hasn’t been saved, it’s been obscured and market incentives have been distorted.
+
+COMMENT: When I started real estate my manager said StreetEasy is not your friend.
+
+It's not. We pay a crazy amount of money, up 7,10, or 22 dollars a DAY per unit to list. Of course, it is designed for the people who pay for it.
+
+I can't address the bugs and filters.
+
+It works better on a desktop. The mobile is brutal.
+
+But due to excellent SEO and other factors it has slowly blocked out the light and air to any other listing platform. REBNY put a lot of resources into CitySnap. It never caught on. We agents chose to eschew free tools and pay for this. (Like crack, it's efficient.)
+
+**It  was StreetEasy who broke the syndication with the RLS and the brokerages. They wanted to stand alone. Zillow(The owner) syndicates from MLS platforms across America but not in NYC. Why? Everyone gave them the ball.**
+
+6 years ago, I looked at the listings in my brokerage's internal platform not SE. 
+
+But open listings have dried up, most straight rentals are not in the RLS, which is on agents, the FARE act hurt syndication, renthop's demo went downhill, and everyone gave their eyeballs to streeteasy. Scammers took over CL, FB marketplace, and almost every other site. It wasn't so long ago we advertised in newspapers. Our ad dollars supported journalism! RIP Village Voice.
+
+I feel like a crazy person saying this, but real estate gets better when you support the good people.
+
+But while people may be very careful about who they support when they purchase products, that mentality is not as common with renters.
+
+Ok sorry to rant and rave, but the issues you are facing did not happen in isolation. Good luck out there!
+
+COMMENT: When I started real estate my manager said StreetEasy is not your friend. 
+
+It's not. We pay a crazy amount of money, up 7,10, or 22 dollars a DAY per unit to list. Of course, it is designed for the people who pay for it. 
+
+I can't address the bugs and filters.
+
+It works better on a desktop. The mobile is brutal. 
+
+But due to excellent SEO and other factors it has slowly blocked out the light and air to any other listing platform. REBNY put a lot of resources into CitySnap. It never caught on. We  agents chose to eschew free tools and pay for this because like crack, it's efficient. 
+
+I sound like a crazy conspiracy person-- but it was StreetEasy  who broke the syndication with the RLS and the brokerages. They wanted to stand alone. Zillow(The owner) syndicates from MLS platforms across America but not in NYC. Why? Everyone gave them the ball. 
+
+6 years ago, I looked at the listings in my brokerage's internal platform not SE. But open listings have dried up, most straight rentals are not in the RLS, which is on agents, the FARE act killed syndication, renthop's demo went downhill, and everyone gave their eyeballs to streeteasy. Scammers took over CL, FB marketplace, and almost every other site. It wasn't so long ago we advertised in newpapers. Can you imagine. Our ad dollars supported journalism! RIP Village Voice. 
+
+I feel like a crazy person saying this, but real estate gets better when you support the good people.
+
+But while people may be very careful about who they support when they purchase products, that mentality is not as common with renters. 
+
+Ok sorry to rant and rave, but the issues you are facing did not happen in isolation. Good luck out there!
+
+COMMENT: Call me crazy but consequences for dishonest listings seems like a good start, especially when StreetEasy is willing to remove listings because of user complaints. The usual process for an account with repeat violations is several temporary suspensions of increased length followed by a permanent ban. 
+
+Tl;dr do what any credible website or app has done for the last two decades: have some standards and enforce them with meaningful consequences.
+
+COMMENT: And? Your rent goes to a landlord's payment of property taxes, repairs costs, mortgages and other loans, etc. Yes, rent is higher, but is that really different from paying 1 month of rent lump sum up front?
+
+COMMENT: awesome! thanks for trying and glad it worked :D
+
+COMMENT: 🎯 Why are these folks requesting more free labour?
+
+COMMENT: Dunno. That’s on them to figure out. The customer expectation is accurate representation and useful search. How they deliver that is up to them and what gives them an edge (or not) over competing sites. We aren’t their product managers.
+
+COMMENT: Actually have some type of consequence for repeat offenders? If a broker is repeatedly having their listings reported they should be banned from creating listings. As it is now though, there is no reason for them not to lie and exaggerate on their listings. Worst that will happen is they have to revise the listing (or even just delete and re-list).
+
+COMMENT: I just tried out your tool and tested a few buildings, it’s very useful. Maybe next time I move I will utilize it :)
+
+COMMENT: Mostly marketplace but a few nyc specific groups, gotta be careful on there though. Listings project is a website, that was where I ended up actually finding it
+
+COMMENT: Where exactly on Facebook do you look? Is listings project on FB?
+
+COMMENT: are there any alternatives? i’m worried i need to start hunting for a july move in and i know that time will be hectic
+
+COMMENT: I built this ([thefind.app](https://www.thefind.app)) for myself out of a similar experience. Hoping to bypass  StreetEasy eventually. Would you use it?
+
+COMMENT: i habe a place but for female only. **Hi Everyone!**
+
+I’m subletting a furnished room in a 3-bedroom, 1-bathroom apartment starting March 1, 2026 or April 1, 2026. The sublease can be month-to-month or for a full year.
+
+\*\*\*Female roommates wanted!
+
+ Location: W 115th St & Manhattan Ave
+
+\* 9-minute walk to Columbia University (Morningside campus)
+
+\* 4-minute walk to the A, B, and C subway lines
+
+ About the Room:
+
+\* Queen-sized bed with mattress
+
+\* Study desk + ergonomic office chair
+
+\* Chest of drawers & wardrobe
+
+ About the Apartment:
+
+\*Elevator
+
+\* In-unit washer & dryer
+
+\* Modern kitchen with marble countertops & stainless steel appliances
+
+\* Dishwasher
+
+\* Shared with two friendly Columbia graduates
+
+ Rent: $1,500 per month
+
+Feel free to DM me if you're interested or have any question
+
+COMMENT: You might wanna check before you move with https://apps.apple.com/us/app/nyc-intel/id6759576009
+
+COMMENT: It does happen! People get banned. But you have to remember who street easy the brokers do so they’re never gonna entirely get rid of them.
+
+COMMENT: That does happen! lol
+
+COMMENT: I need a rental broker for around the summer. Anyone you can connect me to?
+
+COMMENT: Care to give a referral?
+
+COMMENT: One thing that would help is shared reporting on listings themselves, not just buildings. I’m building [AptScout](http://www.aptscout.xyz) for exactly that: people can flag fake photos, bait-and-switches, hidden fees, and wrong-unit showings so we can start to track wrong doers.
+
+COMMENT: I’m sure it exists but probably very limiting. You’d probably be weeding through a lot of legally questionable situations
+
+COMMENT: I want to find a private owner apartment for less than 2,500 dollars you think there’s any hope for that now a days? I’m going to check out that site
+
+COMMENT: Hey! If you're open to the Upper East Side, I'm renting out my 1BR (no broker fee / rent by owner) for a May 22 move-in at $3,990. It's right by the Q train. Here's quick video walkthrough: https://youtube.com/shorts/f-8aYnjFNPc. Shoot me a DM if it looks like a good fit and I can send you the full details!
+
+COMMENT: I report scams on there all the time. Last one was, whoops, Idk why they wrote the wrong address, here’s the real one. I view the apartment, it looks nothing like the listing photos, you know the drill. So effing infuriating.
+
+COMMENT: I just used it to find an apartment in Astoria and had no issues.  Rented a new place in less than 2 weeks.  Broker was great.  Just one persons’s experience.
+
+I have also rented many apartments in NYC over last 30 years.  I know what the code words mean (ie: cozy = small).  It’s just a platform.  I haven’t seen anything better.  You still have to check if the brokers are legit.  I look to see if they belong to a real firm.  I also see if they have rented past apartments in that building. 
+
+You can also check on the building itself when you find a place you like.  City lists all the buildings violations and tenant complaints—- from hot water to bed bugs.  You can see if the owner has paid their taxes.  It’s all online for free on the nyc government websites.
+
+COMMENT: Zillow rentals. Likely many of the same problems but it’s good to look at both because every now and then, an apartment will only be listed on one or the other.
+
+COMMENT: the real apt is like a 10' x10' but in the AI photos (like all of them nowadays) the bed is shrunken down to make it seem much bigger than it is... its terribly deceptive
+
+COMMENT: People who say the FARE act raised rents believe that, because the FARE act got rid of brokers fees (now the landlord generally has to pay a broker vs the tenant, unless the tenant hires a broker) the landlords began baking the broker fee into the rent price, thereby increasing rent. The FARE act was supposed to make renting more affordable, but some people believe it just changed the way the dollars come out of your pocket (ie tenants no longer pay brokers directly). 
+
+The counterargument is that demand for NYC apartments is at an all time high, and inflation is raising the cost of rents regardless.
+
+COMMENT: It can be rough.
+
+Imagine what you would have thought back when all ads were in the Village Voice, with no pictures?
+
+They could only take a certain amount of characters, so we'd have to abbreviate: First/A, Tru 2BR, sep EIK, mbl bth, $2300.
+
+COMMENT: Listing Project is AMAZING
+
+COMMENT: Just went through this. Also want to add one-- I saw a lot of seemingly PE venture listings of fully furnished apartments for short term rentals.
+
+COMMENT: Only thing I disagree with is that because we knew banning the fee would shoot rent up overnight, they should have just capped and regulated the fee.. This would have not shot rents up so drastically, on June 13th everything went up 7-8%
+
+COMMENT: What kills me is “sorry no pets” when I filter for pets allowed
+
+COMMENT: I saw one that listed a private outdoor space but it was really just the roof of an adjacent building you could crawl onto from the window.
+
+COMMENT: Sure I can go ahead and explain.
+
+1. In most U.S. cities you do deal with a broker, unless you are renting from a house. You usually go to a property manager or an apartment leasing office, and they have an agent that handles your paperwork and facilitates your going to tour their available units. These people have salaries, and their costs are baked into the rent. Functionally, their job is the same as a broker.
+2. In mega cities like New York, Paris, and London, the reason 3rd party brokers are the norm is because property managers manage fewer units. On the other hand, multi-family apartments in most U.S. cities have hundreds of units per property manager and have a lot higher turnover. Costs are generally lower, so property managers/landlords manage/own more units. In smaller towns, you may have a handful of property managers that manage the entire inventory of rentals in a city, which is the case in the college town I grew up in. In comparison, in downtown Manhattan, most of the prewar buildings have 28 units total. The property company that manages my building has some 6 buildings in NYC, and they represent 150 units. In a given year, they may rent 10 units. It’s not worthwhile for them to maintain a full-time worker whose job is to rent out 10 units a year. So in NYC and other mega cities, most leasing agents (brokers) are effectively 3rd party, part-time freelancers that work on commission. No one likes workers who work on commission. Do people like car salesmen?
+3. One thing to also notice is when you are dealing with modern construction (aka luxury apartments), those buildings often do have hundreds of units, and nearly all of those apartments do have in-house leasing agents, and it works the same as it would in Atlanta or Charlotte.
+
+I get not liking brokers, because they are basically the same category as car salesmen, but pretending that they do not have an equivalent job that exists in other cities is outright ludicrous and really just says that you are someone who cares more about your own emotions than actual facts, and I will lose brain cells to continue this further.
+
+COMMENT: Yeahhhh, there's a reason I don't work for ExxonMobil, or Philip Morris, or Fox News, or arms dealing. 
+
+Even if I were offered a job there for a million dollars a year, I would still say no.
+
+If you don't believe me when I say that, that's not my problem, and speaks more about you than me.
+
+COMMENT: Explain to me how other major cities in the US survive without broker fees being legal? Long term, NYC will be okay without broker fees, as we see in 90% of other cities.
+
+COMMENT: It differs for each person, evidently. 
+
+Your suggestion, though, reveals more about yourself than I think you intended. You suggested I work a job that goes against my values, which implies you’re okay with working a job against your values so long as it pays an upper middle class salary. Lol
+
+COMMENT: I am not a broker and nor am I the person you've been down voting. I am an economist. Street Easy publishes their total listings numbers each month for past 15 years. You can get them in the data dashboard under additional tools, scroll to the bottom and they even will produce excel files for you to download. you can see by neighborhood.  You do in fact see a 5 to 10 percent drop in the average number of listings  depending on neighborhood when fare act comes into effect. So there is almost definitely a gray market.
+
+My suspicion is its mostly way under market rent stabilized apartments, but 10 percent of the inventory disappearing from a site that has a near monopoly on apartment listings in the city definitely has an effect on price of public listings. This is direct consequences of fare act. Of course you have other factors, but 12 percent YOY exceeds records of previous couple of years by a good bit.
+
+Furthermore are population growth for the last year (2025) is 1008 people. It  is basically zero growth:
+
+[https://www.empirecenter.org/publications/as-immigration-slowed-new-yorks-population-hit-a-wall-in-2025/](https://www.empirecenter.org/publications/as-immigration-slowed-new-yorks-population-hit-a-wall-in-2025/)
+
+NYC problem is supply.
+
+COMMENT: What is a list of acceptable and moral versus unacceptable and moral jobs?
+
+COMMENT: You can pm me if you want I can tell you around where my building is! East side seems better but I’ve only ever lived on W side. Midtown being the main thing in walking distance is eh
+
+COMMENT: lol I lived in this apartment that went viral
+
+COMMENT: They cornered the market already. They do a little bit of vetting. They do have the most reliable information of any platform right now. They have no incentive to do any better than they are doing right now. It's more than anyone else does, so it keeps the consumers coming back, but not enough to hurt their own pockets that much.
+
+COMMENT: Sorta. What you say about the revenue model is true. But that is predicated on a steady supply of high quality good intentioned renters with certificates of deposits burning holes in their pockets. Those rubes — ahem — renters — are happy to go elsewhere if the platform isn’t meeting their expectations. So while they are not a direct source of revenue, they are part of the revenue chain, and a category of customer (or stakeholder depending on your corporate vernacular) that must be kept happy. 
+
+Whatever label you use, no renters, no revenue.
+
+COMMENT: YMMV. I dealt with an obvious scam and the name on the listing, who had listed many apts on SE previously, was not registered as a broker nor was the supposed firm they were associated with. They basically told me womp womp your word against theirs
+
+COMMENT: Where on Reddit would be a good place to post an apartment that you currently live in and want to sublet it out for 1 year?
+
+COMMENT: Thank you! Did you see any buildings that you liked/came close to liking? I’m also looking in the UWS/UES areas
+
+COMMENT: It seems like this person’s only qualifications to take a job are that it pays well and is easy, morality out the window. They must be a broker— that’s the perfect job for them. Some of us value other things!
+
+COMMENT: Ok sounds good then. Best of luck
+
+COMMENT: What app did you see your current apt?
+
+COMMENT: We don't care how easy or hard it is. We care that it shouldn't exist.
+
+COMMENT: I agree. The site has definitely turned into a broker’s playground with renters as the product. But if the renters can’t trust SE listings, then brokers lose product inventory. As renters, we’ll go to other platforms if SE loses credibility.
+
+COMMENT: Most of the jobs that you're referring to exist elsewhere. Forcing tenants to pay broker fees is a job that doesn't exist in almost any other city in the country.
+
+COMMENT: I was first looking in Hudson Yards (ended up further uptown, too expensive for the space I wanted) so I started by looking up on Maps other buildings and then looking them up online and set up showings on the building sites. It can take a little time since there's so many, but a lot actually offer "virtual" showings too so you can see the apartment in person alone and don't have to talk to anyone lol!
+
+COMMENT: \>I mean that’s not really what’s happening. Landlords are the ones who control their properties. 
+
+Your own words in this thread wre "It incentivizes brokers to keep units off the market or not show potential clients other brokers’ listings."
+
+\>Landlords are the ones who control their properties.
+
+Then they can pay the fee.
+
+\>The disruption in the system comes with the rules around what kinds of listings a broker can advertise and how they can collect their fees.
+
+Then they can collect the fees from the landlord. 
+
+\>But landlords are also reacting to market forces. 
+
+They mostly weren't paying the fee before because brokers were offering free services to the landlord that they would then charge to the tenant. If landlords still don't want to pay broker fees, then that means that they don't value the services. What des that tell you about how market forces value the service?
+
+\>Why would they rent a unit and take a potentially big loss when they could just not rent it and take a smaller loss?
+
+I don't accept the premise that these are the only two options. Landlords, and the people who work for them, could just show the units themselves, like it happens literally almost everywhere else in the country. They just got spoiled by people who worked for them for free but collected fees from renters.
+
+COMMENT: Lmao sounds like job postings on linkedin
+
+COMMENT: It’s not exclusive to street easy (or even NYC for that matter) realtors are going nuts with the AI makeovers because they know a sucker will pay for it. Someone had a blast renting out my old apartment that I was constructively evicted from because the HVAC failed and kitchen flooded from a roof leak. All it took was a fresh coat of paint and a lb AI staging for someone to take it off their hands for $3k a month. Hope they enjoy not being able to use AC units or heaters because they’ll trip the breaker!
+
+COMMENT: I mean that’s not really what’s happening. Landlords are the ones who control their properties. The disruption in the system comes with the rules around what kinds of listings a broker can advertise and how they can collect their fees. 
+
+But landlords are also reacting to market forces. Why would they rent a unit and take a potentially big loss when they could just not rent it and take a smaller loss? 
+
+Would you rent a property at a loss just to be nice? You probably wouldn’t
+
+COMMENT: >reacting to market forces
+
+By moving lists of apartments to private "off market listings," which they make available to renters if the renters agree to pay a broker fee.
+
+Brokers are literally admitting that this is happening. They even call it a black market.
+
+That sounds a lot like gatekeeping and extortion. They just don't want to admit that it's what's happening, so they use soft language like "market forces" and "off market listing" to dress it up and tell themselves that what they're doing isn't unethical. One can slap lipstick on a pig, but it's still a pig.
+
+COMMENT: Sometimes but if they do, you can contact support about the broker/lister themselves and not just the listing.
+
+COMMENT: Bro please get a grip. No one is trying to extort you. People are reacting to market forces put in place by legislation.
+
+COMMENT: Why would I do a job I just expressed disdain for?
+
+COMMENT: I saw my current unit listed even though my lease is not up any time soon, & same thing it had specs that weren’t even remotely accurate listed
+
+COMMENT: One post about one service is not evidence nor statistically significant data. That's not how that works.
+
+COMMENT: If it is so easy why don't you do it and become a millionaire?
+
+COMMENT: Does the broker repost it a day later though
+
+COMMENT: The job has not evolved as our technology has evolved, it is utterly useless. Before the internet and streeteasy, you had to reach out to brokers, tell them your ideal price range, location, amenities, bedrooms, etc and they would hunt down apartments that fit your qualifications. Nowadays renters can do all of that on their own. They find the apartments and brokers show up at the last second to do nothing other than collect money as if they actually did any of the work. It’s bizarre. The need for this job does not exist.
+
+COMMENT: The gray market everybody is talking about where you reach out about a listing and it's not available when you show up but they have something else off market they can show you but you have to sign this piece of paper that says they represent you and you have to pay them the fee.. which happened to me a month ago, three times... "
+
+Correlation doesn’t equal causation.. OK cool why did the rent go up so much starting on June 13th? Why is everyone complaining about how much worse Streeteasy has gotten? 
+
+"The entire job is a BS scam." I am not going to punch down on the profession because I find that you could say this about 75% of jobs these days, you must be a surgeon.
+
+COMMENT: You just don't like the words gatekeeping and extortion, but that's 100% what was happening, no matter how much you want to pretend otherwise.
+
+No, I'm not having fun. I'm angry and frustrated that my wife and I can't find an apartment in which we can afford to start a family, despite having nearly perfect credit and nearly $200k in income, because brokers are throwing a hissy fit about not being able to more easily extort me and my wife.
+
+COMMENT: No offense but nobody cares if it’s a “disaster” for brokers— the entire job is a BS scam.
+
+COMMENT: Correlation doesn’t equal causation. Demand is also at an all time high. 
+
+Are you a broker? What is the “gray market” you speak of?
+
+COMMENT: PS- Not an ANTI Fare act person here, they needed to start regulating rentals but not like this
+
+COMMENT: I don't understand your snark? Rent went up almost 12% in Manhattan YOY when the FARE act supporters said "This will NOT increase the rent".. Now rent is up, a gray market has been created and it has been a disaster for brokers and renters?
+
+COMMENT: Hi! How did you find managed buildings in the area? I would also rather live in a managed building.
+
+COMMENT: I mean no. That’s not what I’m saying. But you’re having fun so go nuts bro
+
+COMMENT: This post is my evidence. I’m replying to the friction in the system OP is identifying and offering an explanation.
+
+COMMENT: You aren't the customer. Streeteasy makes money from agents, not from renters, buyers, or sellers. You are not their customers. The agents are.
+
+COMMENT: But they make their money from brokers. You, the renter, are the product streeteasy is selling. The brokers are streeteasy's customers. They started by convincing brokers to put all the info for free on streeteasy to reach clients. Then, once they had the majority of Nyers searching on streeteasy, the renters became the product they sell to agents. They don't care to please you, the renter. You are not their market. Agents are. And they charge agents $7 per day, per listing just to post a rental listing. You are not their customer. You are their product.
+
+COMMENT: One more thing. While CL did destroy classified advertising, Craig does do a decent amount to support journalism as a sort of repayment.
+
+COMMENT: I agree! I ended up finding a great place with no fee with managed buildings directly. Just look up all the apartment buildings in the neighborhood you want to live in. It took a few days but I only had to see 4 places in person to apply to my current place. I wouldn’t want to deal with a non managed building either, I imagine individual landlords in nyc would be bad LLs
+
+COMMENT: Now, all you need to do is filter through what you’ve found. 
+
+If a listing features many photos of the neighborhood rather than the actual apartment, it often implies that while the unit itself is lackluster, the location is a major selling point. Walk-up buildings, in particular, frequently fall into this category. If you reach out about a listing only to be told it is no longer available, you can simply move on. Whether they use such listings as "bait" to lure in inquiries is their problem, not yours. For listings priced at market rates, StreetEasy remains a highly accurate resource. 
+
+Since the platform charges a fee per listing per day, the tendency to indiscriminately post fake listings has significantly decreased. 
+
+Unfortunately, however, if you are looking for listings priced below the average market rate, StreetEasy will be of no help to you.
+
+COMMENT: What do you think is a good alternative to SE? One without such an incentive to fraud?
+
+COMMENT: brokers pay daily fee listings which is SE's revenue so banning brokers won't happen
+
+COMMENT: Sadly, this is nothing new. 
+
+Also, it's kinda what you get for a free service. 
+
+You're better off looking for private owners to rent from, or direct to management companies' websites that have listings.
+
+COMMENT: >Well, no, that’s not what I was saying at all. I’m saying that platforms like StreetEasy worked fairly well to connect renters and apartments, albeit with the practice of forcing tenants to pay broker fees in many cases- even if they didnt hire that agent. 
+
+>My point is the system functioned better before.
+
+So..... letting brokers gatekeep apartments so that they can extort us was actually good for us.
+
+COMMENT: Exactly. There is one guy who repeatedly posts the same scam listing over and over again. Report it, it gets taken down, next day he's back with another listing. So the reporting doesn't actually do any good.
+
+Also listening to feedback from users. Some of OP's suggestions (ie: the virtual doorman thing, or landlords re-posting the same unit over and over again to game the algorithm) could be easily remedied, but they haven't been.
+
+COMMENT: I’ve also seen my address listed! Recently I also saw an apartment listed as being next door to my building, so I messaged them. They said it was actually on another street that was much more desirable. I told them they should update the listing and they’d probably get more people interested and they blocked me. Apartment is still listed under the wrong address.
+
+COMMENT: That's a good easy fix. I agree with that
+
+COMMENT: > the system functioned better before.
+
+Please cite your source besides "just trust me bro"
+
+COMMENT: My point is, the system functioned better before. The cost hasn’t been saved, it’s been obscured and market incentives have been distorted.
+
+COMMENT: When I started real estate my manager said StreetEasy is not your friend.
+
+It's not. We pay a crazy amount of money, up 7,10, or 22 dollars a DAY per unit to list. Of course, it is designed for the people who pay for it.
+
+I can't address the bugs and filters.
+
+It works better on a desktop. The mobile is brutal.
+
+But due to excellent SEO and other factors it has slowly blocked out the light and air to any other listing platform. REBNY put a lot of resources into CitySnap. It never caught on. We agents chose to eschew free tools and pay for this. (Like crack, it's efficient.)
+
+**It  was StreetEasy who broke the syndication with the RLS and the brokerages. They wanted to stand alone. Zillow(The owner) syndicates from MLS platforms across America but not in NYC. Why? Everyone gave them the ball.**
+
+6 years ago, I looked at the listings in my brokerage's internal platform not SE. 
+
+But open listings have dried up, most straight rentals are not in the RLS, which is on agents, the FARE act hurt syndication, renthop's demo went downhill, and everyone gave their eyeballs to streeteasy. Scammers took over CL, FB marketplace, and almost every other site. It wasn't so long ago we advertised in newspapers. Our ad dollars supported journalism! RIP Village Voice.
+
+I feel like a crazy person saying this, but real estate gets better when you support the good people.
+
+But while people may be very careful about who they support when they purchase products, that mentality is not as common with renters.
+
+Ok sorry to rant and rave, but the issues you are facing did not happen in isolation. Good luck out there!
+
+COMMENT: When I started real estate my manager said StreetEasy is not your friend. 
+
+It's not. We pay a crazy amount of money, up 7,10, or 22 dollars a DAY per unit to list. Of course, it is designed for the people who pay for it. 
+
+I can't address the bugs and filters.
+
+It works better on a desktop. The mobile is brutal. 
+
+But due to excellent SEO and other factors it has slowly blocked out the light and air to any other listing platform. REBNY put a lot of resources into CitySnap. It never caught on. We  agents chose to eschew free tools and pay for this because like crack, it's efficient. 
+
+I sound like a crazy conspiracy person-- but it was StreetEasy  who broke the syndication with the RLS and the brokerages. They wanted to stand alone. Zillow(The owner) syndicates from MLS platforms across America but not in NYC. Why? Everyone gave them the ball. 
+
+6 years ago, I looked at the listings in my brokerage's internal platform not SE. But open listings have dried up, most straight rentals are not in the RLS, which is on agents, the FARE act killed syndication, renthop's demo went downhill, and everyone gave their eyeballs to streeteasy. Scammers took over CL, FB marketplace, and almost every other site. It wasn't so long ago we advertised in newpapers. Can you imagine. Our ad dollars supported journalism! RIP Village Voice. 
+
+I feel like a crazy person saying this, but real estate gets better when you support the good people.
+
+But while people may be very careful about who they support when they purchase products, that mentality is not as common with renters. 
+
+Ok sorry to rant and rave, but the issues you are facing did not happen in isolation. Good luck out there!
+
+COMMENT: Call me crazy but consequences for dishonest listings seems like a good start, especially when StreetEasy is willing to remove listings because of user complaints. The usual process for an account with repeat violations is several temporary suspensions of increased length followed by a permanent ban. 
+
+Tl;dr do what any credible website or app has done for the last two decades: have some standards and enforce them with meaningful consequences.
+
+COMMENT: And? Your rent goes to a landlord's payment of property taxes, repairs costs, mortgages and other loans, etc. Yes, rent is higher, but is that really different from paying 1 month of rent lump sum up front?
+
+COMMENT: awesome! thanks for trying and glad it worked :D
+
+COMMENT: 🎯 Why are these folks requesting more free labour?
+
+COMMENT: Dunno. That’s on them to figure out. The customer expectation is accurate representation and useful search. How they deliver that is up to them and what gives them an edge (or not) over competing sites. We aren’t their product managers.
+
+COMMENT: Actually have some type of consequence for repeat offenders? If a broker is repeatedly having their listings reported they should be banned from creating listings. As it is now though, there is no reason for them not to lie and exaggerate on their listings. Worst that will happen is they have to revise the listing (or even just delete and re-list).
+
+COMMENT: I just tried out your tool and tested a few buildings, it’s very useful. Maybe next time I move I will utilize it :)
+
+COMMENT: Mostly marketplace but a few nyc specific groups, gotta be careful on there though. Listings project is a website, that was where I ended up actually finding it
+
+COMMENT: Where exactly on Facebook do you look? Is listings project on FB?
