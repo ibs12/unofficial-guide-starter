@@ -122,7 +122,7 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | If I can't find someone in the US to co-sign my lease, what are my options? | Mentions NYU's third-party guarantor services like the Insurent, The Guarantors, Leap, for a fee, not NYU-affiliated. |
+| 1 | According to NYU's guide, what are my options for a lease guarantor if I don't have a co-signer in the US?| Mentions NYU's third-party guarantor services like the Insurent, The Guarantors, Leap, for a fee, not NYU-affiliated. |
 | 2 | What changed about broker fees in NYC under the FARE Act? | Landlords can no longer charge tenants broker fees as of June 11, 2025, tenants can hire and pay for their own broker if they want one. |
 | 3 | What do people say about the trade offs of Astoria vs. Williamsburg? | Should bring up both sides, Astoria as quieter/cheaper with similar access and Williamsburg as trendier/pricier without picking a winner. |
 | 4 | What should I watch out for to avoid rental scams? | Pulls from NYU's scam guide, red flags like below-market prices, wire transfer requests, and landlords who won't meet in person. |
