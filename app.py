@@ -12,10 +12,14 @@ from generate import ask
 
 def handle_query(question: str):
     if not question.strip():
-        return "Please enter a question.", ""
+        return "Please enter a question.", "", ""
     result = ask(question)
     sources = "\n".join(f"• {s}" for s in result["sources"])
-    return result["answer"], sources
+    chunks = "\n\n---\n\n".join(
+        f"**{c['source']} (chunk {c['chunk_index']}, distance {c['distance']:.3f})**\n\n{c['text']}"
+        for c in result["chunks"]
+    )
+    return result["answer"], sources, chunks
 
 
 with gr.Blocks(title="The Unofficial Guide — NYU Off-Campus Housing") as demo:
@@ -30,9 +34,11 @@ with gr.Blocks(title="The Unofficial Guide — NYU Off-Campus Housing") as demo:
     btn = gr.Button("Ask", variant="primary")
     answer = gr.Textbox(label="Answer", lines=10)
     sources = gr.Textbox(label="Retrieved from", lines=6)
+    with gr.Accordion("Retrieved chunks (full text)", open=False):
+        chunks_display = gr.Markdown()
 
-    btn.click(handle_query, inputs=inp, outputs=[answer, sources])
-    inp.submit(handle_query, inputs=inp, outputs=[answer, sources])
+    btn.click(handle_query, inputs=inp, outputs=[answer, sources, chunks_display])
+    inp.submit(handle_query, inputs=inp, outputs=[answer, sources, chunks_display])
 
 if __name__ == "__main__":
     demo.launch()
